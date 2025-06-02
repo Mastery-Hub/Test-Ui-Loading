@@ -1,7 +1,7 @@
 -- discord.gg/AbYeHux9
 ----- đoạn đầu
 
-_G.Image =IMG_20250509_221648.jpg (0, 500, 0, 350)
+_G.Image = "rbxassetid://113128497133746"
 shared.LoaderTitle = "Script Make By Qminh (Kenny)";
 shared.LoaderKeyFrames = {
     [1] = {
@@ -28,7 +28,7 @@ local v2 = {
             Main = Color3.fromRGB(0, 0, 0),
             Topic = Color3.fromRGB(0, 0, 0),
             Title = Color3.fromRGB(255, 255, 255),
-            LoaderBackground = _G.Image
+            LoaderBackground = _G.Image,
             LoaderSplash = Color3.fromRGB(255, 255, 255)
         }
     },
